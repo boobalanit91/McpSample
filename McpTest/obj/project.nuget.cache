@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2rYMCXKjC6g=",
+  "success": true,
+  "projectFilePath": "D:\\Boobalan\\Training\\DotNetCore_Samples\\GitRepo\\McpServerSample\\McpTest\\MyProduct.Mcp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\booba\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\10.11.0\\microsoft.extensions.ai.abstractions.10.11.0.nupkg.sha512",
+    "C:\\Users\\booba\\.nuget\\packages\\modelcontextprotocol\\2.4.0\\modelcontextprotocol.2.4.0.nupkg.sha512",
+    "C:\\Users\\booba\\.nuget\\packages\\modelcontextprotocol.aspnetcore\\2.4.0\\modelcontextprotocol.aspnetcore.2.4.0.nupkg.sha512",
+    "C:\\Users\\booba\\.nuget\\packages\\modelcontextprotocol.core\\2.4.0\\modelcontextprotocol.core.2.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

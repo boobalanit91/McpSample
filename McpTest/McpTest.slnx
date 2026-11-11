@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../MyProduct.Api/MyProduct.Api.csproj" />
+  <Project Path="McpTest.csproj" />
+</Solution>

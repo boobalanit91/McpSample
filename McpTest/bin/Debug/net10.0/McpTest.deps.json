@@ -1,0 +1,95 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "McpTest/1.0.0": {
+        "dependencies": {
+          "ModelContextProtocol.AspNetCore": "2.4.0"
+        },
+        "runtime": {
+          "McpTest.dll": {}
+        }
+      },
+      "Microsoft.Extensions.AI.Abstractions/10.11.0": {
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.AI.Abstractions.dll": {
+            "assemblyVersion": "10.11.0.0",
+            "fileVersion": "10.1100.26.51307"
+          }
+        }
+      },
+      "ModelContextProtocol/2.4.0": {
+        "dependencies": {
+          "ModelContextProtocol.Core": "2.4.0"
+        },
+        "runtime": {
+          "lib/net10.0/ModelContextProtocol.dll": {
+            "assemblyVersion": "2.4.0.0",
+            "fileVersion": "2.4.0.0"
+          }
+        }
+      },
+      "ModelContextProtocol.AspNetCore/2.4.0": {
+        "dependencies": {
+          "ModelContextProtocol": "2.4.0"
+        },
+        "runtime": {
+          "lib/net10.0/ModelContextProtocol.AspNetCore.dll": {
+            "assemblyVersion": "2.4.0.0",
+            "fileVersion": "2.4.0.0"
+          }
+        }
+      },
+      "ModelContextProtocol.Core/2.4.0": {
+        "dependencies": {
+          "Microsoft.Extensions.AI.Abstractions": "10.11.0"
+        },
+        "runtime": {
+          "lib/net10.0/ModelContextProtocol.Core.dll": {
+            "assemblyVersion": "2.4.0.0",
+            "fileVersion": "2.4.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "McpTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.AI.Abstractions/10.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-h4DX/TdJU4fk1GGaf19n6Kujkj6VXbGeL4UEOsQ8+ZJC5fVApPauokCtvBP684BYbczUYZQNfo1mbmyHG4WVSg==",
+      "path": "microsoft.extensions.ai.abstractions/10.11.0",
+      "hashPath": "microsoft.extensions.ai.abstractions.10.11.0.nupkg.sha512"
+    },
+    "ModelContextProtocol/2.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3oMhK5W0G3H8+1SbMosV7meE6sKQfmzLKSNtjQ3dGZ+IJU5RomKTs/bKWHFyOJQNMWk//+iClQJfcMpHnwCFsg==",
+      "path": "modelcontextprotocol/2.4.0",
+      "hashPath": "modelcontextprotocol.2.4.0.nupkg.sha512"
+    },
+    "ModelContextProtocol.AspNetCore/2.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qo04FrgNKc5obyjzqd8CTu1vofrxcbKnOFVzxQ1+b3G9SBluwRMT31NZTztegJ1QDri4Z/3jUe8UqaIc+2xmCw==",
+      "path": "modelcontextprotocol.aspnetcore/2.4.0",
+      "hashPath": "modelcontextprotocol.aspnetcore.2.4.0.nupkg.sha512"
+    },
+    "ModelContextProtocol.Core/2.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-q98pZMlcxhsh0LpGXcT2ow7sGNveCPhDlJT3zJ7Cz5nNyPmPkm8P57dUIUpzv1w6qWbdSZcR/Z+RbZtNYjEmXQ==",
+      "path": "modelcontextprotocol.core/2.4.0",
+      "hashPath": "modelcontextprotocol.core.2.4.0.nupkg.sha512"
+    }
+  }
+}
